@@ -49,6 +49,7 @@ public class MemberController {
     @PostConstruct
     public void initNewMember() {
         newMember = new Member();
+        System.out.println("test");
     }
 
     public void register() throws Exception {

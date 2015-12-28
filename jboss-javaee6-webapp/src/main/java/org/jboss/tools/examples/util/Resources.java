@@ -56,6 +56,7 @@ public class Resources {
     }
     
     public  void myMethod(){
+    	System.out.println("tata");
     	System.out.println("toto");
     }
 

@@ -54,5 +54,9 @@ public class Resources {
     public FacesContext produceFacesContext() {
         return FacesContext.getCurrentInstance();
     }
+    
+    public  void myMethod(){
+    	
+    }
 
 }
